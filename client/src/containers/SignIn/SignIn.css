@@ -1,0 +1,38 @@
+.SignIn .Form{
+    display: flex;
+    flex-flow:column;
+    justify-content:center;
+}
+
+.SignIn h2{
+    text-align: center;
+}
+
+.SignIn h3{
+    text-align: center;
+}
+
+.SignIn input{
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    font:inherit;
+    box-sizing: border-box;
+    width:40%;
+    outline: none;
+    padding:6px 10px;
+    margin:8px auto;
+}
+
+
+.SignIn button{
+    display: block;
+    margin:10px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-weight: bold;
+    font:inherit;
+    color: green;
+    box-sizing: border-box;
+}

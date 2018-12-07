@@ -1,0 +1,11 @@
+.MsgInput{
+    display: flex;    
+}
+
+.MsgInput textarea{
+    flex:4;
+}
+
+.MsgInput button{
+    flex:1;
+}
